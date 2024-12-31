@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Outfit;
+}
+
+.light {
+  --background-color: #d0e2c9;
+}
+
+.dark {
+  --background-color: #0c2512;
+}
+
+
+.main {
+    display: flex;
+   background-color: var(--background-color);
+   transition: background-color 1s, color 1s;
+}
+
+#root {
+    min-height: 100vh;  
+    animation: fadeIn 1.5s;
+}
+
+@keyframes fadeIn {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
