@@ -11,11 +11,11 @@ HomePage and Sidebar: </b>
 
 2. Manage past chats with edit and delete options.
 
-![image](https://github.com/user-attachments/assets/9c78d18d-ed47-49df-85d8-a5ee1dacf6ed)
+![image](https://github.com/user-attachments/assets/1e28c047-1e19-427d-a363-01e6683b4b48)
 
-4. Search chats by title for quick access.
+3. Search chats by title for quick access.
 
-![image](https://github.com/user-attachments/assets/2035f9ed-6ec8-4be8-9b22-b59e1fa5c294)
+![image](https://github.com/user-attachments/assets/de2220ad-f665-469f-8a4a-cf1d261e5a78)
 
-5. Switch dynamically between light and dark themes.
+4. Switch dynamically between light and dark themes.
 ![image](https://github.com/user-attachments/assets/fd66a1ab-61aa-4aba-b082-dbca3ee5e475)
