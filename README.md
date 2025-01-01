@@ -14,12 +14,10 @@ HomePage and Sidebar: </b>
 
 
 3. Manage past chats with options to rename titles, and delete previous chats.
-
 ![image](https://github.com/user-attachments/assets/9808e509-7785-470b-83eb-759b7e67a867)
 
 
 4. Search chats by title for quick access.
-
 ![image](https://github.com/user-attachments/assets/47c0ce7b-f3a4-4bdd-a900-4649f36f93c6)
 
 
