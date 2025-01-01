@@ -1,8 +1,18 @@
-# React + Vite
+#How to Set Up Using GitHub:
+1. Clone the repository.
+2. Run 'npm install' in the project directory.
+3. Start the application locally using 'npm run dev'.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<b>Results
+HomePage and Sidebar: </b>
+1. Context-based AI stores previous chats for seamless conversations.
+![image](https://github.com/user-attachments/assets/8cc95fe8-20a7-484f-ba55-9654f6ad54a6)
 
-Currently, two official plugins are available:
+3. Manage past chats with edit and delete options.
+![image](https://github.com/user-attachments/assets/9c78d18d-ed47-49df-85d8-a5ee1dacf6ed)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. Search chats by title for quick access.
+![image](https://github.com/user-attachments/assets/2035f9ed-6ec8-4be8-9b22-b59e1fa5c294)
+
+6. Switch dynamically between light and dark themes.
+![image](https://github.com/user-attachments/assets/fd66a1ab-61aa-4aba-b082-dbca3ee5e475)
