@@ -13,13 +13,15 @@ HomePage and Sidebar: </b>
 ![image](https://github.com/user-attachments/assets/e8ede8f7-66ae-49f8-a56b-acd2374a042c)
 
 
-2. Manage past chats with edit and delete options.
+3. Manage past chats with options to rename titles, and delete previous chats.
 
-![image](https://github.com/user-attachments/assets/1e28c047-1e19-427d-a363-01e6683b4b48)
+![image](https://github.com/user-attachments/assets/9808e509-7785-470b-83eb-759b7e67a867)
 
-3. Search chats by title for quick access.
 
-![image](https://github.com/user-attachments/assets/de2220ad-f665-469f-8a4a-cf1d261e5a78)
+4. Search chats by title for quick access.
 
-4. Switch dynamically between light and dark themes.
+![image](https://github.com/user-attachments/assets/47c0ce7b-f3a4-4bdd-a900-4649f36f93c6)
+
+
+5. Switch dynamically between light and dark themes.
 ![image](https://github.com/user-attachments/assets/fd66a1ab-61aa-4aba-b082-dbca3ee5e475)
