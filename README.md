@@ -6,8 +6,12 @@
 <b>Results
 </br>
 HomePage and Sidebar: </b>
-1. Context-based AI stores previous chats for seamless conversations.
+1. Home page provides prompt suggestions.
 ![image](https://github.com/user-attachments/assets/8cc95fe8-20a7-484f-ba55-9654f6ad54a6)
+
+2. Context-based AI stores previous chats for seamless conversations.
+![image](https://github.com/user-attachments/assets/e8ede8f7-66ae-49f8-a56b-acd2374a042c)
+
 
 2. Manage past chats with edit and delete options.
 
