@@ -198,8 +198,8 @@ function Sidebar() {
                   <img src={assets.close} alt="" />
                 </button>
                 <div>
-                  <p>Name: Syeda Qudeja </p>
-                  <p>Email: syedaqudeja@gmail.com </p>
+                  <p>Name: Syed Faheemuddin Faiz </p>
+                  <p>Email: syed0faheem@gmail.com </p>
                   <p>Phone No: 1603230000 </p>
 
                   <button className="premium">
